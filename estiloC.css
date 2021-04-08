@@ -1,0 +1,20 @@
+
+<link rel="stylesheet" href="estiloC.css">
+p {
+    color:red;
+	font-family: Arial;
+}
+
+body {
+    background-color:#87ceeb;
+    color:black;
+    font-family:Arial;
+    margin:0 4px 0 0;
+    border:12px solid;
+	font-size: 15;
+}
+
+h1,h2 {
+    color:white;
+    background-color:black;
+}	
